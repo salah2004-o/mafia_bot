@@ -1,0 +1,13 @@
+2026-06-26 20:34:09 | INFO | Session -1002628166858 canceled by registration timeout.
+2026-06-26 20:36:23 | INFO | Session -1002628166858 canceled by registration timeout.
+2026-06-26 20:40:12 | INFO | Polling API exception: A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-06-26 20:40:26 | INFO | Session -1002628166858 canceled by registration timeout.
+2026-06-26 20:40:31 | INFO | Polling API exception: A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-06-26 20:41:14 | INFO | Polling API exception: A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-06-26 20:42:00 | INFO | Session -1002628166858 canceled by registration timeout.
+2026-06-26 20:43:39 | INFO | Session -1002628166858 canceled by registration timeout.
+2026-06-27 15:06:16 | INFO | Session -1002628166858 canceled by registration timeout.
+2026-06-27 20:35:18 | INFO | Session -1002628166858 ended with winner city
+2026-06-27 23:30:34 | INFO | Session -1002628166858 canceled by registration timeout.
+2026-06-30 01:20:16 | INFO | Session -1002628166858 canceled by registration timeout.
+2026-06-30 01:33:47 | INFO | Session -1002558640584 ended with winner mafia
